@@ -39,6 +39,12 @@
       "title": "stream1",
       "description": "stream1",
       "id": 8
+    },
+    {
+      "title": "I created this stream",
+      "description": "this stream was made by me",
+      "userId": "110908171277411699246",
+      "id": 9
     }
   ]
 }
