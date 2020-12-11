@@ -7,8 +7,7 @@
     },
     {
       "title": "I created this stream logged in",
-      "description": "this stream was made by me",
-      "userId": "110908171277411699246",
+      "description": "this stream was made by me again",
       "id": 2
     },
     {
@@ -16,6 +15,12 @@
       "description": "So fun",
       "userId": "110908171277411699246",
       "id": 3
+    },
+    {
+      "title": "Refactor Stream Again With Patch Request",
+      "description": "This is how you do it",
+      "userId": "110908171277411699246",
+      "id": 4
     }
   ]
 }
