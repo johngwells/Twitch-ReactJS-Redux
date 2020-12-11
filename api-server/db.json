@@ -1,56 +1,21 @@
 {
   "streams": [
     {
-      "title": "hello",
-      "description": "ytou",
+      "title": "stream 1",
+      "description": "this is a public stream",
       "id": 1
     },
     {
-      "title": "stream 1",
-      "description": "ninja",
-      "id": 2
-    },
-    {
-      "title": "stream 1",
-      "description": "ninja",
-      "id": 3
-    },
-    {
-      "title": "stream 1",
-      "description": "ninja",
-      "id": 4
-    },
-    {
-      "title": "stream 2",
-      "description": "ninja2",
-      "id": 5
-    },
-    {
-      "title": "stream 1",
-      "description": "ninja",
-      "id": 6
-    },
-    {
-      "title": "stream 2",
-      "description": "turtle",
-      "id": 7
-    },
-    {
-      "title": "stream1",
-      "description": "stream1",
-      "id": 8
-    },
-    {
-      "title": "I created this stream",
+      "title": "I created this stream logged in",
       "description": "this stream was made by me",
       "userId": "110908171277411699246",
-      "id": 9
+      "id": 2
     },
     {
       "title": "Programming",
       "description": "So fun",
       "userId": "110908171277411699246",
-      "id": 10
+      "id": 3
     }
   ]
 }
